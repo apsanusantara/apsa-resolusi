@@ -1,6 +1,8 @@
 RENCANA KONTEN APSA
 
 - Jacascipt
+  * ES6
+  * Frameworks Javascripts
 - PHP Frameworks
 - Interview
 - Vlogs
