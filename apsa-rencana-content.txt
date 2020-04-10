@@ -3,9 +3,11 @@ RENCANA KONTEN APSA
 - Jacascipt
   * ES6
   * Frameworks Javascripts
-    ^ Angular
+    ^ Vue
     ^ React
+- Struktur Data Dasar
 - PHP Frameworks
-  ^ Laravel
+  * Laravel
 - Interview
 - Vlogs
+- Python
