@@ -5,6 +5,7 @@ RENCANA KONTEN APSA
   * Frameworks Javascripts
     ^ Vue
     ^ React
+    ^ Angular
 - Struktur Data Dasar
 - PHP Frameworks
   * Laravel
